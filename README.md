@@ -10,4 +10,10 @@ It allows users to encrypt and decrypt text using matrix-based encryption.
 - **Streamlit**  
 - **NumPy**  
 - **SymPy**  
-- **Linear Algebra (Hill Cipher Algorithm)**  
+- **Linear Algebra (Hill Cipher Algorithm)**
+
+## 📌 How to Run Locally :
+pip install -r requirements.txt
+
+streamlit run app.py
+
